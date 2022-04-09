@@ -1,0 +1,4 @@
+admin;Administrator
+user;Akses User
+budi;Budi Gunawan
+yuni;Wahyuni
